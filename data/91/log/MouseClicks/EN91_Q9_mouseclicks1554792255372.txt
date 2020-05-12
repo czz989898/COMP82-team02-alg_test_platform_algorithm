@@ -1,0 +1,2 @@
+Question	MouseClick (previous location)	MouseClick (new location)	MouseClick(ms)	MousePress(ms)	MouseRelease(ms)
+Q9	0	0	1554788153305	1554788153258	1554788153305
