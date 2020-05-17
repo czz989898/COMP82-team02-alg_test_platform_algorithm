@@ -1,2 +1,0 @@
-Question	MouseClick (previous location)	MouseClick (new location)	MouseClick(ms)	MousePress(ms)	MouseRelease(ms)
-Q5Timer	0	0	1556606075158	1556606075033	1556606075158

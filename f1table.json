@@ -1,1 +1,0 @@
-[{"matrixName": "cosine_similarity", "f1": 0.7272727272727273}, {"matrixName": "canberra_similarity", "f1": 0.6792452830188679}, {"matrixName": "euclidean_similarity", "f1": 0.33333333333333337}, {"matrixName": "keselj_similarity", "f1": 0.6792452830188679}, {"matrixName": "manhattan_similarity", "f1": 0.6538461538461539}]
